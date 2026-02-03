@@ -1,4 +1,4 @@
-package com.prepInsta.javaDSA.array.easy;
+package com.prepInsta.javaDSA.array.easy.twoPointers;
 
 public class LeftRotatetheArraybyOne {
     public static void rotate(int[] arr){
