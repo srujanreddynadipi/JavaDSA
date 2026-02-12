@@ -44,10 +44,12 @@ public class SegmentTree {
     }
 
 
+
+
     public static void main(String[] args) {
         int[] nums = {1, 3, 5, 7, 9, 11};
         SegmentTree st = new SegmentTree(nums);
-        st.display();
+        //st.display();
     }
 
 
